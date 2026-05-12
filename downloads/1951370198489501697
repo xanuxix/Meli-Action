@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<script>window.config={FAPTAP_CAPTCHA_KEY:'05aeb4b9-56e7-480f-8b00-9b2a26208975'}</script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#18181b">
+    <title>FapTap | The Interactive Porn Experience</title>
+    <meta name="referrer" content="no-referrer">
+    
+    <!-- <script src="https://cdn.jsdelivr.net/npm/buttplug@3.2.2/dist/web/buttplug.min.js"></script> -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3H4HYM16Q4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'G-3H4HYM16Q4');
+    </script>
+
+    <!-- vr player -->
+    <meta name="dl8-customization-brand-name" content="FapTap">
+    <meta name="dl8-customization-brand-logo" content="/logo.white.svg">
+    <meta name="dl8-custom-format" content='{"name": "STEREO_FISHEYE_200_LR","base":"STEREO_FISHEYE_LR","params":{"fov": 200, "magnification": 1.0 }}'>
+    <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+
+  <script type="module" crossorigin src="/assets/index.19819312.js"></script>
+  <link rel="stylesheet" href="/assets/index.cb8a03d7.css">
+</head>
+
+<body>
+    <div id="app"></div>
+    
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9fa97024c9405d13',t:'MTc3ODU4OTA2MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
